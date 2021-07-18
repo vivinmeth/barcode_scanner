@@ -1,4 +1,4 @@
-# DIP_barcode
+# Barcode Scanner
 This repo contains **Digital Image Processing Project - Barcode Scanner**
 
 **Barcode Scanner using OpenCV and ZBar**
