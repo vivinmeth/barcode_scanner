@@ -1,0 +1,5 @@
+for Image:
+python image_barcode.py --image "image path"
+
+for video:
+python camera_barcode.py
